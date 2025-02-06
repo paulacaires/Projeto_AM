@@ -13,6 +13,5 @@
 
 # Arquivo com todas as funcoes e codigos referentes ao preprocessamento
 
-from sklearn.preprocessing import OneHotEncoder
-def codificacao_canonica(df, coluna):
+
     
